@@ -15,6 +15,6 @@ Clicar na opção E2E Testing
 
 Escolher o Browser 
 
-E clicar no teste "Alura-busca", dentro da pasta "1-getting-started"
+Clicar no teste "Alura-busca", dentro da pasta "1-getting-started"
 
 O teste deverá abrir e acessar o site da Alura.
